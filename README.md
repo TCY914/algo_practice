@@ -1,1 +1,1 @@
-# algo_workshop
+# algo_practice
